@@ -1,5 +1,8 @@
 # P3
-P3 task
+Qualyification task.
+Did not have time to implement some things I wanted, like exception logging,...
+Also if I had some more time I would add some comments and documentation to code.
+
 I do not know where this should be published, so I am writing instructions the way it should work.
 
 1. Right click on project P3 (not solution) and choose Publish.
